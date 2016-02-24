@@ -15,3 +15,4 @@ All elements that Pandoc and MultiMarkdown use should be listed here, even if th
 There are some elements in here for HTML5 output of Pandoc, but I have not gotten around to testing that yet.
 
 I am by no means an experienced Web developer, so some of this CSS may be rather naive. I'm mainly just a Markdown user who wants his documents to look nice. Most of the rules are commented to say why they are there so the intent is known.
+# Economic-Letters

@@ -1,15 +1,14 @@
 % Curriculum Vitae 
 % Hana Marie Smrčková 
 
+Education
+=======
+
 ## Personal Information
 Address: Rijtse Akkers 158, 5037JV Tilburg, Netherlands
 E-mail: h.m.smrckova@tilbuguniversity.edu
 Phone: 00420 607 920 481
 Born: 1989
-
-
-Education
-=======
 
 Above this, we have the title, author (or subtitle) and date 
 Pandoc metadata. These are specially classed H1, H2 and H3 

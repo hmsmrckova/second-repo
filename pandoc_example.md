@@ -1,8 +1,12 @@
-% Buttondown Stylesheet Example
-% Pandoc Markdown Version
-% February 2012
+% Curriculum Vitae 
+% Hana Marie Smrčková 
 
-Headers
+
+
+
+
+
+Education
 =======
 
 Above this, we have the title, author (or subtitle) and date 

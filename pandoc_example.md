@@ -1,18 +1,67 @@
 % Curriculum Vitae 
 % Hana Marie Smrčková 
 
-Education
-=======
-
 ## Personal Information
-Address: Rijtse Akkers 158, 5037JV Tilburg, Netherlands
-E-mail: h.m.smrckova@tilbuguniversity.edu
-Phone: 00420 607 920 481
+Address: Rijtse Akkers 158, 5037JV Tilburg, Netherlands  
+
+E-mail: h.m.smrckova@tilbuguniversity.edu  
+
+Phone: 00420 607 920 481  
+
 Born: 1989
 
-Above this, we have the title, author (or subtitle) and date 
-Pandoc metadata. These are specially classed H1, H2 and H3 
-elements that we just add centering to.
+Blady bla
+
+Education
+=========
+
+**September 2015 – now**  
+
+Doctoral study program (external)  
+
+Supervisor: Markéta Arltová  
+
+Faculty of Informatics and Statistics, University of Economics, Prague
+
+**February 2016 – now**
+
+Visiting PhD researcher
+
+Tilburg School of Economics and Management, Tilburg University
+
+**February 2015 – February 2016**
+
+Master study program: Economics (specialization: Competition and Regulation)
+
+Distinctions: Graduated with distinction
+
+Tilburg School of Economics and Management, Tilburg University
+
+**September 2012 – September 2015**
+
+Master study program: Economic Analysis (minor specialization: Behavioral Economics)
+
+Faculty of Economics, University of Economics, Prague
+
+**January 2014 – June 2014**
+
+Semestral study stay
+
+Tilburg School of Economics and Management, Tilburg University
+
+**September 2009 – September 2012**
+
+Bachelor study program: Economics
+
+Distinctions: University Award for Excellent Thesis
+
+Faculty of Economics, University of Economics, Prague
+
+**September 2009 – June 2012**
+
+Bachelor study program: Media Studies
+
+Faculty of Social Sciences, Charles University  
 
 ## Level 2
 

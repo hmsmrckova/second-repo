@@ -15,11 +15,8 @@ Education
 =========
 
 **September 2015 – now**  
-
 Doctoral study program (external)  
-
 Supervisor: Markéta Arltová  
-
 Faculty of Informatics and Statistics, University of Economics, Prague
 
 **February 2016 – now**

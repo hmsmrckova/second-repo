@@ -9,8 +9,7 @@ E-mail: h.m.smrckova@tilbuguniversity.edu
 Phone: 00420 607 920 481  
 
 Born: 1989
-
-Blady bla
+- - -
 
 Education
 =========
@@ -63,33 +62,56 @@ Bachelor study program: Media Studies
 
 Faculty of Social Sciences, Charles University  
 
-## Level 2
+## Other Academic Experience
+**February 2016 – now**  
 
-With Pandoc's `--section-divs` option, nested header levels 
-create nested DIVs. This stylesheet creates nested indentation 
-for them to nest visually.
+Research Assistant  
 
-### Level 3
+Project: *Faithful Strategies: How Religion Shapes Nonprofit Management*  
+  
+Institution: Tilburg Law and Economic Center  
 
-I should create some auxiliary CSS files that you could include 
-after `buttondown.css` to change some things like turning off 
-nested indenting.
 
-#### Level 4
+**September 2015 – now**  
+ 
+Research Assistant  
 
-Buttondown doesn't re-define the font size or weight of the 
-headers, but it does define the font families for them as sans-
-serf.
+Project: *After the Curtain: Empirical Studies of Migration in Transition Economies*  
 
-##### Level 5
+Financing Institution: Czech Grant Agency  
 
-It doesn't re-define the body text font, and it doesn't make 
-the text body narrow --- it leaves it full width. I will probably 
-add a style option file for that.
 
-###### Level 6
+**Spring 2014**  
 
-Level 6 can be quite small.
+Lecturer  
+
+Event: Summer School on Behavioral Economics and Psychology
+
+## Personal Skills and Competencies
+
+### Languages
+* English (Fluent)
+* French (Intermediate)
+* Czech (Mother Tongue)
+
+### Social and Organizational Skills and Competencies
+* Communicative
+* Empathetic
+* Enthusiastic
+* Determined 
+
+### Computer Skills
+* Microsoft Office
+* EndNote
+* EViews
+* Stata
+* Gretl
+* LaTeX
+* R (partly)
+* Git (partly)
+
+### Athletic Achievements 
+* Medal positions, Czech Academic Games 2011 and 2012, summer biathlon
 
 
 Lists

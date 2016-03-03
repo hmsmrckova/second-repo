@@ -8,8 +8,7 @@ E-mail: h.m.smrckova@tilbuguniversity.edu
 
 Phone: 00420 607 920 481  
 
-Born: 1989  
-- - - 
+Born: 1989 
 
 Education
 =========
